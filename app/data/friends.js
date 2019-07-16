@@ -1,16 +1,15 @@
 class User {
     constructor(name, photo, scoresArray) {
       this.name = name;
-      this.photo = photo;
       this.scores = scoresArray;
-
+      this.photo = photo;
     }
   }
 
   var friends = [
     {
-      name: "Ahmed Zabara",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      name: "Karim Zabara",
+      photo: "https://via.placeholder.com/150",
       scores: [
         "5",
         "1",
@@ -25,8 +24,8 @@ class User {
       ]
     },
     {
-      name: "Jacob Deming",
-      photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      name: "Harry Harroldson",
+      photo: "https://via.placeholder.com/150",
       scores: [
         "4",
         "2",
@@ -41,8 +40,8 @@ class User {
       ]
     },
     {
-      name: "Jeremiah Scanlon",
-      photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+      name: "Jebidiah Farmer Guy",
+      photo: "https://via.placeholder.com/150",
       scores: [
         "5",
         "2",
@@ -57,30 +56,29 @@ class User {
       ]
     },
     {
-      name: "Louis T. Delia",
-      photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      name: "Larry the Cable Guy",
+      photo: "https://via.placeholder.com/150",
       scores: [
         "3",
-        "3",
-        "4",
-        "2",
         "2",
         "1",
         "3",
         "2",
         "2",
-        "3"
+        "3",
+        "3",
+        "4",
+        "2"
       ]
     },
     {
-      name: "Lou Ritter",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      name: "Cameron Jameson",
+      photo: "https://via.placeholder.com/150",
       scores: [
         "4",
         "3",
         "4",
-        "1",
-        "5",
+        "2",
         "2",
         "5",
         "3",
@@ -89,8 +87,8 @@ class User {
       ]
     },
     {
-      name: "Jordan Biason",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      name: "Clyde Orsmandi",
+      photo: "https://via.placeholder.com/150",
       scores: [
         "4",
         "4",
