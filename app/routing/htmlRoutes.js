@@ -4,7 +4,7 @@ var path = require("path");
 
 // routes
 //-------------------------------------------------------
-module.exports = (app) => {
+module.exports = app => {
   
   // get route for the survey page
   app.get("/survey", (req, res) => {
