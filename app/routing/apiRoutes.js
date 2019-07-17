@@ -3,5 +3,5 @@ const friends = require('../data/friends');
 
 // routes for interacting with the 'friends' database
 module.exports = app => {
-    
+    app.get("/api/friends")
 }
