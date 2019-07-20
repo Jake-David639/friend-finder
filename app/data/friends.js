@@ -6,7 +6,7 @@ class User {
     }
   }
 
-  var friends = [
+  let friends = [
     {
       name: "Karim Zabara",
       photo: "https://via.placeholder.com/150",
